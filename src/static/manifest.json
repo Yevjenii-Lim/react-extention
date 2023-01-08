@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "React Extention",
+  "description": "React Extention from Udemy Course",
+  "version": "1.0",
+  "icons": {
+    "16": "react.png",
+    "46": "react.png",
+    "128": "react.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "React Extention",
+    "default_icon": "react.png"
+  },
+  "options_page": "options.html"
+}
