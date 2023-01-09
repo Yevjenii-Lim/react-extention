@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "React Extention",
-  "description": "React Extention from Udemy Course",
+  "name": "Tamplate extention",
+  "description": "Template Extention from Udemy Course",
   "version": "1.0",
   "icons": {
     "16": "react.png",
